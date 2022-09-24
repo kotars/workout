@@ -1,0 +1,10 @@
+.program__button--color {
+    color: white;
+    transition: 1s;
+    background: #25AB75;
+
+    &:hover {
+        background: #191919;
+        transition: 1s;
+    }
+}

@@ -1,0 +1,10 @@
+.main__button__preview--color {
+    color: #FFFFFF;
+    transition: 1s;
+    background: #191919;
+
+    &:hover {
+        background: #25AB75;
+        transition: 1s;
+    }
+}

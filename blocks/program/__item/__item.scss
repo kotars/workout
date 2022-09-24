@@ -1,0 +1,6 @@
+.program__item {
+    &:first-child {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}

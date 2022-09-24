@@ -1,0 +1,6 @@
+.header__items {
+    width: 120rem;
+    @include vercen;
+    justify-content: space-between;
+    margin: 0 auto;
+}

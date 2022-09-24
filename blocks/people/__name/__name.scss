@@ -1,0 +1,7 @@
+.people__name {
+    @include font(500, 2rem, 125%);
+    letter-spacing: 0.05rem;
+    color: #FFFFFF;
+    margin-top: 1.8rem;
+    margin-bottom: .5rem;
+}

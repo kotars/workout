@@ -1,0 +1,5 @@
+.exercises__head {
+    @include font(600, 3.5rem, 129%);
+    letter-spacing: .03rem;
+    color: #FFFFFF;
+}

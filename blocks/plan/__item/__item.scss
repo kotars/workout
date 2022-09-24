@@ -1,0 +1,12 @@
+.plan__item{
+    display: flex;
+    align-items: center;
+    padding-top: 5.05rem;
+    padding-bottom: 4.95rem;
+    &:not(:last-child) {
+        border-bottom: 0.05rem solid #666666;
+    }
+    &:last-child{
+        margin-bottom: 9.25rem;
+    }
+}

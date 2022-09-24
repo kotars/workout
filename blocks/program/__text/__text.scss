@@ -1,0 +1,9 @@
+.program__text {
+    @include font(400, 2.5rem, 200%);
+    letter-spacing: 0.05rem;
+    color: #FFFFFF;
+    opacity: 0.7;
+    margin-bottom: 5rem;
+    width: 55.8rem;
+    margin-top: 3rem;
+}

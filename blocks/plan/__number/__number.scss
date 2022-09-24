@@ -1,0 +1,7 @@
+.plan__number {
+    @include font(600, 2.5rem, 140%);
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.34;
+    margin-top: -1rem;
+}

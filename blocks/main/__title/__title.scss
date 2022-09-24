@@ -1,0 +1,5 @@
+.main__title {
+    @include font(400, 1.3rem, 100%);
+    letter-spacing: .1rem;
+    color: #FFFFFF;
+}

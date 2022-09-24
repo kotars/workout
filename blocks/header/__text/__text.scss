@@ -1,0 +1,7 @@
+.header__text {
+    @include font(400, 1.2rem, 100%);
+    letter-spacing: .15rem;
+    &:not(:first-child){
+        margin-left: 4.68rem;
+    }
+}

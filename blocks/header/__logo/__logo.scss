@@ -1,0 +1,8 @@
+.header__logo {
+    font-family: 'Poppins';
+    @include font(600, 1.8rem, 122%);
+    letter-spacing: .1rem;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+}

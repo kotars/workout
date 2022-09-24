@@ -1,0 +1,6 @@
+.exercises__more {
+    @include font(400, 1.2rem, 100%);
+    letter-spacing: .15rem;
+    color: #FFFFFF;
+    opacity: 0.67;
+}

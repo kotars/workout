@@ -1,0 +1,8 @@
+.main__text {
+    @include font(400, 1.6rem, 181%);
+    letter-spacing: 0.05rem;
+    color: #FFFFFF;
+    opacity: 0.5;
+    width: 60rem;
+    margin-bottom: 5rem;
+}

@@ -1,0 +1,8 @@
+.exercises__time {
+    background: black;
+    padding: 1rem 0rem 1rem 1rem;
+    border-top-left-radius: 25%;
+    @include font(660, 2rem, 95%);
+    letter-spacing: .136667rem;
+    color: #FFFFFF;
+}

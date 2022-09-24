@@ -1,0 +1,20 @@
+.plan__items {
+    display: flex;
+    flex-direction: column;
+    .plan__item:nth-child(1) .plan__number {
+        margin-right: 29.5rem;
+    }
+
+    .plan__item:nth-child(2) .plan__number {
+        margin-right: 29rem;
+    }
+    .plan__item:nth-child(3) .plan__number {
+        margin-right: 28.9rem;
+    }
+    .plan__item:nth-child(4) .plan__number {
+        margin-right: 28.8rem;
+    }
+    .plan__item:nth-child(5) .plan__number {
+        margin-right: 28.8rem;
+    }
+}

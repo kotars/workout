@@ -1,0 +1,9 @@
+.new__logo {
+    background: #25AB75;
+    border-radius: 20rem;
+    @include font(600, 1rem, 180%);
+    letter-spacing: .15rem;
+    color: #FFFFFF;
+    padding: .4rem 1rem;
+    margin-right: 1.5rem;
+}

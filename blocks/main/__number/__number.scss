@@ -1,0 +1,14 @@
+.main__number {
+    @include font(600, 4rem, 100%);
+    letter-spacing: .1rem;
+    margin-bottom: .5rem;
+}
+
+.main__number__time {
+    color: #FFE642;
+
+}
+
+.main__number__est {
+    color: #FB1351;
+}

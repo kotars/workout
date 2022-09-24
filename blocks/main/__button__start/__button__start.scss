@@ -1,0 +1,6 @@
+.main__button__start {
+    border-radius: 1rem;
+    padding: 2.4rem 4.7rem 2.4rem 4.5rem;
+    @include font(600, 1.8rem, 122%);
+    letter-spacing: .1rem;
+}

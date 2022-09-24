@@ -1,0 +1,5 @@
+.exercises__title {
+    @include font(600, 5rem, 90%);
+    letter-spacing: 0.03rem;
+    color: #FFFFFF;
+}

@@ -1,0 +1,7 @@
+.main__button__preview {
+    border-radius: 1rem;
+    padding: 2.4rem 6.4rem 2.4rem 6.1rem;
+    @include font(600, 1.8rem, 122%);
+    letter-spacing: .1rem;
+    margin-left: 3rem;
+}
